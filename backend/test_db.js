@@ -1,6 +1,8 @@
 const mongoose = require('mongoose');
+require('dotenv').config();
 
-const uri = "mongodb+srv://Debdatta:MyselfDeb11@cluster0.9nhecdn.mongodb.net/maintrix?appName=Cluster0";
+// Use environment variable for URI
+const uri = process.env.MONGODB_URI || "mongodb://localhost:27017/maintrix";
 
 mongoose.connect(uri)
   .then(() => {
