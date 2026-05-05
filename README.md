@@ -181,4 +181,8 @@ gcloud run deploy maintrix --source . --env-vars-file env.yaml --region us-centr
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Debdatta Panda
+
+## Author
+Debdatta Panda
+LinkedIn: https://www.linkedin.com/in/debdatta-panda-dp11
