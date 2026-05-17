@@ -1,10 +1,28 @@
-# Maintrix - Office Maintenance Software
+<div align="center">
 
-Maintrix is a modern office maintenance and ticket management platform. It streamlines workflows between employees, managers, and technicians with role-based dashboards, real-time chat, and issue tracking. Built on the MERN stack, it ensures rapid resolution of workplace support requests while providing transparent operational auditing.
+# 🚀 Maintrix - Office Maintenance Software
 
-**Live Website URL:** [https://maintrix-44806187079.us-central1.run.app](https://maintrix-44806187079.us-central1.run.app)
+**A modern office maintenance and ticket management platform.**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer--motion-black.svg?style=for-the-badge&logo=framer&logoColor=blue)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-black?style=for-the-badge&logo=googlecloud)](https://maintrix-44806187079.us-central1.run.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+[Live Demo](https://maintrix-44806187079.us-central1.run.app) · [Report Bug](https://github.com/MyselfDebdatta/MAINTRIX-OFFICE-MAINTENANCE-SOFTWARE/issues) · [Request Feature](https://github.com/MyselfDebdatta/MAINTRIX-OFFICE-MAINTENANCE-SOFTWARE/issues)
+
+</div>
 
 ---
+
+Maintrix is a modern office maintenance and ticket management platform. It streamlines workflows between employees, managers, and technicians with role-based dashboards, real-time chat, and issue tracking. Built on the MERN stack, it ensures rapid resolution of workplace support requests while providing transparent operational auditing.
 
 ## Executive Overview
 
